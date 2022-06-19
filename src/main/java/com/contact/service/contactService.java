@@ -7,6 +7,6 @@ import java.util.List;
 
 public interface contactService {
 
-public List<Contact> getContactOfUser(long userId);
+//public List<Contact> getContactOfUser(long userId);
 
 }
